@@ -14,16 +14,16 @@ CIFAR-10 is a very popular computer vision dataset. This dataset is well studied
 
 This dataset consists of 60,000 images divided into 10 target classes, with each category containing 6000 images of shape 32x32. This dataset contains images of low resolution (32x32), which allows researchers to try new algorithms. The 10 different classes of this dataset are:
 
-Airplane
-Car
-Bird
-Cat
-Deer
-Dog
-Frog
-Horse
-Ship
-Truck
+* Airplane
+* Car
+* Bird
+* Cat
+* Deer
+* Dog
+* Frog
+* Horse
+* Ship
+* Truck
 
 # Preview
 
